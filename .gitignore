@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+
+# macOS
+.DS_Store
+
+# Webpack
+dist/
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# Build files
+build/
+
+# Editor-specific files
+*.sublime-project
+*.sublime-workspace
+*.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
